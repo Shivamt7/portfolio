@@ -33,7 +33,7 @@
     border-radius: 1rem;
 }
 
-.work__video {
+.work__image {
     width: 295px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
@@ -87,7 +87,7 @@
         padding: 1rem;
     }
 
-    .work__video{
+    .work__image{
         margin-bottom: 0.75rem;
     }
 
@@ -110,7 +110,7 @@
         grid-template-columns: 1fr;
     }
 
-    .work__video {
+    .work__image {
         width: 100%;
     }
 }
