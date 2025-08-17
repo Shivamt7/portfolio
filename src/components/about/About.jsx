@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/098.jpg";
-import Resume from "../../assets/ShivamMishra_RESUME.pdf";
+import Resume from "../../assets/ShivamMishra_SoftwareDeveloper.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,9 +17,8 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Frontend developer, with 6 months of hands-on experience in building
-            responsive, user-friendly web interfaces using ReactJS, JavaScript,
-            and CSS.I bring a detail-oriented and problem-solving mindset to
+            Software developer, with 1 Year 5 months of hands-on experience in building
+            responsive, user-friendly web interfaces using NodeJS, ReactJS, Javascript, ExpressJs, CSS and Tailwind CSS. I bring a detail-oriented and problem-solving mindset to
             every project.
           </p>
 

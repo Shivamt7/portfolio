@@ -43,7 +43,7 @@ const Services = () => {
                 ReactJS Frontend Engineering
               </h3>
               <p className="services__modal-description">
-                Service with more than 6 months of experience. Providing quality
+                Service with more than 1 Year of experience. Providing quality
                 work to clients and companies.
               </p>
 
@@ -115,7 +115,7 @@ const Services = () => {
 
               <h3 className="services__modal-title">UI/UX Implementation</h3>
               <p className="services__modal-description">
-                Service with more than 6 months of experience. Providing quality
+                Service with more than 1 Year of experience. Providing quality
                 work to clients and companies.
               </p>
 
@@ -191,7 +191,7 @@ const Services = () => {
 
               <h3 className="services__modal-title">Web App Optimization</h3>
               <p className="services__modal-description">
-                Service with more than 6 months of experience. Providing quality
+                Service with more than 1 Year of experience. Providing quality
                 work to clients and companies.
               </p>
 
