@@ -49,10 +49,10 @@ const Data = () => {
         </svg>
       </h1>
 
-      <h3 className="home__subtitle">Frontend Developer</h3>
+      <h3 className="home__subtitle">Software Developer</h3>
 
       <p className="home__description">
-        I'm creative designer based in Etawah, Uttar Pradesh, and I'm very
+        I'm creative designer based in Noida, Uttar Pradesh, and I'm very
         passionate and dedicated to my work.
       </p>
 
